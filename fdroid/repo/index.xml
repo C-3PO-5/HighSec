@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo name="HighSecurity" icon="default-repo-icon.png" url="https://raw.githubusercontent.com/C-3PO-5/HighSec/master/fdroid/repo" version="21" timestamp="1621961239" pubkey="30820503308202eba003020102020464c8aa01300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303532353133333632345a170d3438313031303133333632345a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100de1b567b55f7ab39be3e78fa523b3fb8635a79fefec1c460ecf2d5616acfee4bef8df53f4ebe69e2633f839b229cc1ec943179142a674d133aaa1c9d142000b52c6c57074f8806c66ca1888f803ba5c3a812f0cccee6a1778a1a9bfaae18ee63f52a0f62822f249f51c6475d521f04799b448efb1947463cf792deca5c713edba5df1090186d0689577c187c3ea3c754b54b63169d2f0c5bd9140f8e770dace2e48365c97d0a2bc69a80c8e40a441dc0a2b6fc8a1ced4853d368ca6458f79fe0df05f491b369955e0e6146b826f8c0bdf06c4d759253f1e05698701f4bfde2e00275e4a6214fddfe666ee1e6aa939b9071afda37f7969b722df46ebc1cd119b359d02f5f0ded096d6447b6ccb4de6479bd6a7c543b630403998069fe5c5d056fcb9872187cf3bd550f1a4e59fad52e0ea68f711bd585dc8035dba208707a2fe8fb340ce448bae89d1c10cf37b7534c4dac3d7c8692f5e5f4d3aa7bb567047ba038470697c77c9b3644d59aaf4d0a39e0f35e301c1b06cdff4fa68f02615c1326a075c79ea7dee869930bb8d4bea0301a9278b3ed03fbb4d9af21a48191782d8650f819365e24f9dc6fa0e7bbf87f33b38197ba3f5e5ddcc0e8f5b149837d61e5c2dfcdb1fdc09c6242e95317bb5305c8e6929735081ce7b58b4a0e88bab986da7d26e04421624352f91796ece22f0d0bb575ed166390e7cc11e1d65c3f710c870203010001a321301f301d0603551d0e041604147339dad8290ce1e8006bc38b9c731030eb50e571300d06092a864886f70d01010b050003820201004d0d0f2e17a16488775cc0913fcfd3eca374d904549fdfb0c81592a68cbde259e4fa19d336a1073ef025e98c243144f5e2d1043254d972464bbff03e422e80b0aee53bcaab8b11c056c082211e3b0b9393a9eab70303f1b36d40fe20b4741420224b6896a5db5c578a35c35b3f87ed55f64692592d3302f01aa948cc8f6cbfa6450a6d37b34bbf01fd58a9b5e69264d68909435ef962807e044f19267f6b17c20a99f05bab170f5ec729685f0cd1114f2de55db07bb098bf647e680d9ecb4bce0b5446e79f9cb0fdb0d3308343f46ed71dc49acfe895f09830fca729c132e03568268f1dc0e1ec409d76642a0daffdc95a90fa6f3e231b817da0f6835f4162e9f5d821f40bc8b8a4ee2fa83e7f446b10e5cce588d7e86e78113a7a6766ecbbe04b587ea84073ec88d71f5952e7def7d5c2bb54d4d13baf17581963d62216f0603d29ee9e59aa866530d459ea37a7f3971507302921dbe37ee0fce3d00997b9325ada30624382503188c2814aa4e5444ebc4d1904096303ce54f31294407d529869d5b2879672ffb1895fb139f1147374a2032e28f1de95f2136fd1ae7c5599b7fba78c79a55bbfc958a2641a369ff9b6f595267057faa27782666ba96ed7d2588fde6af94b46e6185472fdf89abca1466e1420ba9c8341307bee38068b1bc2e2336cd179c28fac0ea91b36e6f5c546f71d8725c06f82880fa99bbac1f36d4b6a">
+		<description>Nur Apps die von mir selber geprüft wurden !</description>
+		<mirror>https://raw.githubusercontent.com/C-3PO-5/HighSec/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="org.thoughtcrime.securesms">
+		<id>org.thoughtcrime.securesms</id>
+		<added>2021-05-25</added>
+		<lastupdated>2021-05-25</lastupdated>
+		<name>Signal</name>
+		<summary></summary>
+		<icon>org.thoughtcrime.securesms.84700.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>Signal</author>
+		<marketversion></marketversion>
+		<marketvercode>84700</marketvercode>
+		<package>
+			<version>5.11.5</version>
+			<versioncode>84700</versioncode>
+			<apkname>Signal-Android-website-prod-universal-release-5.11.5.apk</apkname>
+			<hash type="sha256">35d891d97f834cc622b521a979b605c6ec18743c922793bee7db246f346f1a91</hash>
+			<size>65742645</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-05-25</added>
+			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,BROADCAST_WAP_PUSH,CALL_PHONE,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MODIFY_AUDIO_SETTINGS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALENDAR,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SMS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECEIVE_MMS,RECEIVE_SMS,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SEND_SMS,SET_WALLPAPER,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_PROFILE,WRITE_SMS,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS</permissions>
+			<uses-permission name="android.permission.WRITE_EXTERNAL_STORAGE" maxSdkVersion="28"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="org.telegram.messenger.web">
+		<id>org.telegram.messenger.web</id>
+		<added>2021-05-25</added>
+		<lastupdated>2021-05-25</lastupdated>
+		<name>Telegram</name>
+		<summary></summary>
+		<icon>org.telegram.messenger.web.22939.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>Telegram</author>
+		<marketversion></marketversion>
+		<marketvercode>22939</marketvercode>
+		<package>
+			<version>7.7.2</version>
+			<versioncode>22939</versioncode>
+			<apkname>Telegram.apk</apkname>
+			<hash type="sha256">695fc91395dca9438df12b93b5590f37dc33e8264a0cbfed9e6ddde36f8f2ec7</hash>
+			<size>57483318</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-05-25</added>
+			<sig>3a7766b8cba893bbf2f9d01696196b4c</sig>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,CALL_PHONE,CAMERA,FOREGROUND_SERVICE,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_ACCOUNTS,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,READ_APP_BADGE,READ_CALL_LOG,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.UNINSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.telegram.messenger.permission.MAPS_RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>
